@@ -8,14 +8,14 @@
     "Privacy_Policy" : "https://sites.google.com/view/tawjihnews/home",
     
     "admob_pub" : "pub-86163704790442xx",
-    "admob_banner" : "ca-app-pub-8616370479044220/43050706xx",
+    
     "admob_inter" : "ca-app-pub-8616370479044220/85436985xx",
     "admob_AppOpen" : "ca-app-pub-8616370479044220/19782902xx",
     "admob_id" : "ca-app-pub-8616370479044220~44966423xx",
     
     "ONESIGNAL_APP_ID" : "a367917a-3449-4f7d-9f0e-40c71b44402d",
-    
-    "Facebook_inter" : "189683537325474_189684480658713"
+    "facebook_banner" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "Facebook_inter" : "YOUR_PLACEMENT_ID"
     
   
     
