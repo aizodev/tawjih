@@ -26,7 +26,7 @@
         "interstitial_id": ""
       }
     },
-    "enable_app_open": false,
+    "enable_app_open": true,
     "app_open_min_background_seconds": 300,
     "app_open_min_interval_seconds": 3600
   }
