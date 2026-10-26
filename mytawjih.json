@@ -17,9 +17,9 @@
     "min_seconds_between_interstitials": 180,
     "ads_unit_id": {
       "admob": {
-        "banner_id": "ca-app-pub-3940256099942544/9214589741",
-        "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
-        "app_open_id": "ca-app-pub-3940256099942544/9257395921"
+        "banner_id": "ca-app-pub-8616370479044220/3662597070",
+        "interstitial_id": "ca-app-pub-8616370479044220/7920784169",
+        "app_open_id": "ca-app-pub-8616370479044220/5294620825"
       },
       "facebook_mediation": {
         "banner_id": "",
