@@ -4,7 +4,9 @@
     "Privacy_Policy": "https://sites.google.com/view/tawjihnews/home",
     "ONESIGNAL_APP_ID": "a367917a-3449-4f7d-9f0e-40c71b44402d",
     "admob_Banner": "ca-app-pub-3940256099942544/6300978111",
-    "admob_Interstitial": "ca-app-pub-3940256099942544/1033173712"
+    "admob_Interstitial": "ca-app-pub-3940256099942544/1033173712",
+    "meta_banner_id": "189683537325474_632286106398546",
+    "meta_interstitial_id": "189683537325474_189684480658713"
   },
   "ads": {
     "status": true,
@@ -22,8 +24,8 @@
         "app_open_id": "ca-app-pub-8616370479044220/5294620825"
       },
       "facebook_mediation": {
-        "banner_id": "189683537325474_632286106398546",
-        "interstitial_id": "189683537325474_189684480658713"
+        "banner_id": "ca-app-pub-8616370479044220/3662597070",
+        "interstitial_id": "ca-app-pub-8616370479044220/7920784169"
       }
     },
     "enable_app_open": true,
