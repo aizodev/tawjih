@@ -9,7 +9,7 @@
   "ads": {
     "status": true,
     "main_ads": "admob",
-    "backup_ads": "none",
+    "backup_ads": "facebook_mediation",
     "enable_banner": true,
     "banner_mode": "adaptive",
     "enable_interstitial": true,
@@ -22,8 +22,8 @@
         "app_open_id": "ca-app-pub-8616370479044220/5294620825"
       },
       "facebook_mediation": {
-        "banner_id": "",
-        "interstitial_id": ""
+        "banner_id": "189683537325474_632286106398546",
+        "interstitial_id": "189683537325474_189684480658713"
       }
     },
     "enable_app_open": true,
